@@ -26,7 +26,7 @@ Senior Director of Product and Engineering
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/joe-marini).
+Check out  other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/joe-marini).
 
 [lil-course-url]: https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2453257/2453257-1649176347537-16x9.jpg
